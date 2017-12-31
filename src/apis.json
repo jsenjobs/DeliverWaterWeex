@@ -1,0 +1,13 @@
+{
+  "login":"https://deliverwater.sanliyunkeji.com/dwssserveruser/login",
+  "userbase":"https://deliverwater.sanliyunkeji.com/dwssserveruser",
+  "listNoOrder":"https://deliverwater.sanliyunkeji.com/dwssserveruser/order/list/tobe",
+  "orderFinished":"https://deliverwater.sanliyunkeji.com/dwssserveruser/order/sended",
+  "listAllOrders":"https://deliverwater.sanliyunkeji.com/dwssserveruser/order/listall",
+  "webSocket":"wss://deliverwater.sanliyunkeji.com/dwss",
+
+  "getAliPreOrder":"https://deliverwater.sanliyunkeji.com/dwssserver/prepay/ali",
+  "getWxPreOrder":"https://deliverwater.sanliyunkeji.com/dwssserver/prepay/wx",
+  "ok_client":"https://deliverwater.sanliyunkeji.com/dwssserverso/ok_client_notify",
+  "getAliPreOrder2":"http://192.168.1.104:7082/prepay/ali"
+}

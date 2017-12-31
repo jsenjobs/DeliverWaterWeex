@@ -1,0 +1,11 @@
+{
+  "login":"https://aaa.bigfacewo.com/dwssserveruser/xxv1/1vxx/admin/login",
+  "createUser":"https://aaa.bigfacewo.com/dwssserveruser/xxv1/1vxx/admin/user/create",
+  "resetPass":"https://aaa.bigfacewo.com/dwssserveruser/xxv1/1vxx/admin/user/reset/password",
+  "resetAddress":"https://aaa.bigfacewo.com/dwssserveruser/xxv1/1vxx/admin/user/reset/address",
+  "QueryByDay":"https://aaa.bigfacewo.com/dwssserveruser/order/query/day",
+  "SearchOrderByID":"https://aaa.bigfacewo.com/dwssserveruser/order/query/id",
+  "GetOrderByPage":"https://aaa.bigfacewo.com/dwssserveruser/order/get",
+
+  "NotifyGetOrder":"https://aaa.bigfacewo.com/dwssserverso/ok_notify"
+}
