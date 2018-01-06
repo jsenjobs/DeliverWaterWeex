@@ -23,8 +23,8 @@ exports.startWS = function(id, callback) {
   }
   webSocket.onerror = function(e) {
     // webSocket.close()
-    stat = false
-    instance = false
+    // stat = false
+    // instance = false
     if(callback.onerror) {
       callback.onerror(e)
     }
